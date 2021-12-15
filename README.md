@@ -1,1 +1,1 @@
-# 2021-22_p1_fenyeroszabalyzasnyomogmbbalű
+# 2021-22_p1_fenyeroszabalyzasnyomogmbbal
