@@ -94,7 +94,7 @@ def upindit():
     
     fill += delta
     if fill >= 100:
-        fill = 0
+        fill = 100
     p.ChangeDutyCycle(fill)
     print(fill)
     
@@ -103,7 +103,7 @@ def downindit():
     
     fill = fill - delta
     if fill <= 0:
-        fill = 100
+        fill = 0
     p.ChangeDutyCycle(fill)
     print(fill) 
 
