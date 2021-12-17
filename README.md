@@ -1,5 +1,8 @@
 # 2021-22_p1_fenyeroszabalyzasnyomogmbbal
 
+## Működése
+Három gombunk van.<br> Az egyikkel ki és be lehet kapcsolni a ledet, a másik kettővel pedig a fényerejét lehet szabályozni. 
+
 ## kapcsolási rajz
 ![kapcsrajz](sources/UntitledSketch2.fzzanyu_schem.png)
 
