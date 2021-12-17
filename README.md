@@ -1,7 +1,7 @@
 # 2021-22_p1_fenyeroszabalyzasnyomogmbbal
 
 ## kapcsolási rajz
-
+![kapcsrajz](sources/UntitledSketch2.fzzanyu_schem.png)
 
 ## Forráskód
 
