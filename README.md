@@ -1,5 +1,8 @@
 # 2021-22_p1_fenyeroszabalyzasnyomogmbbal
 
+## kapcsolási rajz
+
+
 ## Forráskód
 
 ```py
